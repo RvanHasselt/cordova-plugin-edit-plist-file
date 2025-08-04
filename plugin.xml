@@ -25,8 +25,6 @@
         <engine name="cordova" version=">=3.5.0" />
     </engines>
     
-    
-    
     <!-- ios -->
     <platform name="ios">
 
@@ -58,8 +56,6 @@
                 <string>instagram</string>
             </array>
         </config-file>
-        
-        
         
     </platform>
     
